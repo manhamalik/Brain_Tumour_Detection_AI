@@ -1,1 +1,1 @@
-# Brain_Tumour_Detection_AI
+# Brain Tumour Detection AI
