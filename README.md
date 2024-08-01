@@ -53,4 +53,6 @@ This project utilizes pre-trained deep convolutional neural network models to de
 ## Deliverables
 - iPython notebook showing the implementation
 - Video showing model outputs
-- Summary report comparing the pre-trained models to the custom CNN model
+
+For detailed code, refer to the provided [Jupyter notebook](https://github.com/manhamalik/Brain_Tumour_Detection_AI).
+
